@@ -36,8 +36,19 @@ Make sure you have Python installed. Then run:
 pip install streamlit
 pip3 install steamlit
 ```
+### Step 2: Run Streamlit
 
-## 📸 Dashboard
+Run:
+
+```bash
+streamlit run streamlit_app.py
+
+```
+
+---  
+
+
+## 📸 Dashboard UI
 
 Here’s how the Streamlit dashboard looks:
 

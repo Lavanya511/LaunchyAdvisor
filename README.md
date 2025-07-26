@@ -28,7 +28,15 @@
 
 ## ⚙️ How to Run
 
-### Step 1: Install Streamlit
+### Step 1: Clone the repository
+
+Use this command to clone this repository:
+
+```bash
+git clone https://github.com/Lavanya511/LaunchyAdvisor.git
+```
+
+### Step 2: Install Streamlit
 
 Make sure you have Python installed. Then run:
 
@@ -36,7 +44,7 @@ Make sure you have Python installed. Then run:
 pip install streamlit
 pip3 install steamlit
 ```
-### Step 2: Run Streamlit
+### Step 3: Run Streamlit
 
 Run:
 

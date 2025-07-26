@@ -49,7 +49,7 @@ pip3 install steamlit
 Run:
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run dashboard.py
 
 ```
 

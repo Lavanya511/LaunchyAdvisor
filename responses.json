@@ -1,0 +1,468 @@
+[
+  {
+    "query": "Can we afford to run a paid acquisition campaign in Q4?",
+    "summary": "",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 8658,
+      "Budget remaining": 28403,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Do we have enough budget to hire a senior ML engineer next month?",
+    "summary": "",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 9768,
+      "Budget remaining": 26448,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "What\u2019s the ROI of launching in APAC compared to LATAM?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {
+      "Launch score": 7,
+      "Channel": "TechCrunch",
+      "Recommendation": "Consider refining your marketing strategy to better reach your audience."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Should we reduce our marketing budget this quarter?",
+    "summary": " ",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 11537,
+      "Budget remaining": 17796,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {
+      "Launch score": 8,
+      "Channel": "TechCrunch",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "How much can we invest in product research without going over budget?",
+    "summary": "",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 11797,
+      "Budget remaining": 46662,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Can we store customer data in the US if our users are in the EU?",
+    "summary": "",
+    "budget": {},
+    "legal": {
+      "Compliant": false,
+      "Issues": [
+        "Intellectual Disputes"
+      ],
+      "Recommendation": "Address legal blockers before proceeding."
+    },
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "Address legal blockers before proceeding."
+      ]
+    }
+  },
+  {
+    "query": "Are there any legal blockers to launching in Germany?",
+    "summary": " ",
+    "budget": {},
+    "legal": {
+      "Compliant": false,
+      "Issues": [
+        "Data Privacy and Security Breaches"
+      ],
+      "Recommendation": "Address legal blockers before proceeding."
+    },
+    "marketing": {
+      "Launch score": 8,
+      "Channel": "TechCrunch",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "Address legal blockers before proceeding."
+      ]
+    }
+  },
+  {
+    "query": "Is our AI chatbot compliant with privacy regulations in Brazil?",
+    "summary": "",
+    "budget": {},
+    "legal": {
+      "Compliant": false,
+      "Issues": [
+        "Breach of Contract"
+      ],
+      "Recommendation": "Address legal blockers before proceeding."
+    },
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "Address legal blockers before proceeding."
+      ]
+    }
+  },
+  {
+    "query": "Can we use third-party cookies in our Spanish marketing site?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {
+      "Launch score": 9,
+      "Channel": "LinkedIn",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Do we need specific licenses to operate in Canada?",
+    "summary": "",
+    "budget": {},
+    "legal": {
+      "Compliant": true,
+      "Issues": [],
+      "Recommendation": "Proceed with legal compliance as planned."
+    },
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "What\u2019s the best marketing channel to reach B2B SaaS founders in Europe?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {
+      "Launch score": 8,
+      "Channel": "TechCrunch",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "How should we position our AI assistant for HR teams?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {
+      "Launch score": 9,
+      "Channel": "TechCrunch",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Can you draft a launch announcement for our new pricing model?",
+    "summary": " ",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 11679,
+      "Budget remaining": 46647,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {
+      "Launch score": 8,
+      "Channel": "LinkedIn",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Which social media platforms should we prioritize for our product?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {
+      "Launch score": 5,
+      "Channel": "TechCrunch",
+      "Recommendation": "Consider refining your marketing strategy to better reach your audience."
+    },
+    "critic": {
+      "feedback": [
+        "Consider refining your marketing strategy to better reach your audience."
+      ]
+    }
+  },
+  {
+    "query": "What\u2019s a good tagline for a privacy-first analytics tool?",
+    "summary": " ",
+    "budget": {},
+    "legal": {
+      "Compliant": false,
+      "Issues": [
+        "Regulatory Compliance Issues"
+      ],
+      "Recommendation": "Address legal blockers before proceeding."
+    },
+    "marketing": {
+      "Launch score": 9,
+      "Channel": "LinkedIn",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "Address legal blockers before proceeding."
+      ]
+    }
+  },
+  {
+    "query": "Can we launch our AI tool in France this quarter?",
+    "summary": " ",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 8170,
+      "Budget remaining": 47807,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {
+      "Launch score": 8,
+      "Channel": "LinkedIn",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Is it worth attending SaaStr Europe this year?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Should we localize our onboarding flow for the DACH region?",
+    "summary": " ",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 14653,
+      "Budget remaining": 24247,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {
+      "Launch score": 7,
+      "Channel": "TechCrunch",
+      "Recommendation": "Consider refining your marketing strategy to better reach your audience."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "What would be a good Q3 growth move for a startup with $50K budget?",
+    "summary": "",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 10404,
+      "Budget remaining": 31660,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Can we run a dual-brand campaign targeting healthcare and fintech sectors?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {
+      "Launch score": 6,
+      "Channel": "LinkedIn",
+      "Recommendation": "Consider refining your marketing strategy to better reach your audience."
+    },
+    "critic": {
+      "feedback": [
+        "Consider refining your marketing strategy to better reach your audience."
+      ]
+    }
+  },
+  {
+    "query": "What are the risks of launching a freemium plan next month?",
+    "summary": "",
+    "budget": {},
+    "legal": {},
+    "marketing": {
+      "Launch score": 10,
+      "Channel": "TechCrunch",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "Can we consolidate legal + marketing teams to save costs?",
+    "summary": "  ",
+    "budget": {
+      "Can afford": false,
+      "Estimated cost": 16469,
+      "Budget remaining": 12334,
+      "Recommendation": "Re-evaluate the financial plan or cut costs."
+    },
+    "legal": {
+      "Compliant": true,
+      "Issues": [],
+      "Recommendation": "Proceed with legal compliance as planned."
+    },
+    "marketing": {
+      "Launch score": 5,
+      "Channel": "LinkedIn",
+      "Recommendation": "Consider refining your marketing strategy to better reach your audience."
+    },
+    "critic": {
+      "feedback": [
+        "Re-evaluate the financial plan or cut costs.",
+        "Consider refining your marketing strategy to better reach your audience."
+      ]
+    }
+  },
+  {
+    "query": "What\u2019s the minimal budget we need to run a compliant launch in the UK?",
+    "summary": "  ",
+    "budget": {
+      "Can afford": false,
+      "Estimated cost": 15628,
+      "Budget remaining": 12095,
+      "Recommendation": "Re-evaluate the financial plan or cut costs."
+    },
+    "legal": {
+      "Compliant": true,
+      "Issues": [],
+      "Recommendation": "Proceed with legal compliance as planned."
+    },
+    "marketing": {
+      "Launch score": 6,
+      "Channel": "LinkedIn",
+      "Recommendation": "Consider refining your marketing strategy to better reach your audience."
+    },
+    "critic": {
+      "feedback": [
+        "Re-evaluate the financial plan or cut costs.",
+        "Consider refining your marketing strategy to better reach your audience."
+      ]
+    }
+  },
+  {
+    "query": "Should we outsource our GTM efforts in Southeast Asia?",
+    "summary": "",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 5214,
+      "Budget remaining": 20616,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {},
+    "marketing": {},
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  },
+  {
+    "query": "What does a compliant, low-cost go-to-market plan look like for India?",
+    "summary": "  ",
+    "budget": {
+      "Can afford": true,
+      "Estimated cost": 11914,
+      "Budget remaining": 15747,
+      "Recommendation": "You can proceed with this plan."
+    },
+    "legal": {
+      "Compliant": true,
+      "Issues": [],
+      "Recommendation": "Proceed with legal compliance as planned."
+    },
+    "marketing": {
+      "Launch score": 9,
+      "Channel": "LinkedIn",
+      "Recommendation": "This is a good marketing strategy."
+    },
+    "critic": {
+      "feedback": [
+        "This is an excellent plan \u2728. While a few optimizations might be beneficial, there are no significant concerns."
+      ]
+    }
+  }
+]
